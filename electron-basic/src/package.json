@@ -1,0 +1,8 @@
+{
+    "name": "radiant-cp-uct",
+    "productName": "Radiant Customer Portal User Creation Tool",
+    "version": "1.0.0",
+    "description": "Used to create new Users / Customers for import into the Customer Portal",
+    "main": "electron.prod.js",
+    "license": "MIT"
+}
